@@ -12,4 +12,9 @@ export const DashStyle = StyleSheet.create({
     padding: 5,
     backgroundColor: 'red',
   },
+  imgFull: {
+    height: 120,
+    borderRadius: 10,
+    margin: 5,
+  },
 });
